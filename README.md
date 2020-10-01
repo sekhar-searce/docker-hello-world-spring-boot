@@ -4,7 +4,7 @@ Hello World sample shows how to deploy [SpringBoot](http://projects.spring.io/sp
 
 ##### Clone source code from git
 ```
-$  git clone https://github.com/dstar55/docker-hello-world-spring-boot .
+$  git clone https://github.com/sekhar-searce/docker-hello-world-spring-boot .
 ```
 
 ##### Build Docker image
